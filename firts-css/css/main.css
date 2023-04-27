@@ -88,6 +88,14 @@ section h2 {
     background-color: #fdc000;
 }
 
+#entreterimento .articles article a:hover{
+    background-color: blue;
+}
+
+#tecnologia .articles article a:hover{
+    background-color: red;
+}
+
 .articles article p,
 .articles article a {
     font-family: 'Montserrat', sans-serif;
@@ -104,5 +112,13 @@ section h2 {
 }
 
 #economy {
-    background-color: #fdc20019;
+    background-color: #fdc20031;
+}
+
+#entreterimento {
+    background-color: rgba(171, 171, 255, 0.308);
+}
+
+#tecnologia {
+    background-color: rgba(255, 0, 0, 0.193);
 }
